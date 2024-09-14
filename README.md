@@ -32,7 +32,7 @@ Como pré-requisitos, é necessário instalar o [Node.js](https://nodejs.org/pt-
 Cumprindo os pré-requisitos, clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/alessandroramos13/letmeask
+$ git clone https://github.com/aleessandrohr/letmeask
 $ cd letmeask
 ```
 
